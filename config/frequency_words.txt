@@ -15,6 +15,7 @@ AI服务器
 绿色服务器
 节能服务器
 RISC-V
+RISCV
 智能网卡
 SmartNIC
 DPU
@@ -27,14 +28,13 @@ datacenter
 云厂商
 云服务
 
-
+服务器厂商
 超聚变
 浪潮
 inspur
 华三
 H3C
 DELL
-联想
 
 微软
 Microsoft
@@ -45,12 +45,8 @@ Microsoft
 昇腾
 任正非
 
-
 大疆
 DJI
-
-宇树
-王兴兴
 
 智元
 灵犀
@@ -62,6 +58,8 @@ bytedance
 
 特斯拉
 马斯克
+Grok
+xAI
 
 微软
 Microsoft
@@ -69,10 +67,10 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
+CUDA
+全功能GPU
 
 AMD
-
-甲骨文
 
 谷歌
 google
@@ -83,19 +81,46 @@ chatgpt
 openai
 sora
 
-claude
+Claude
 Anthropic
+TRAE
+Copilot
+Tabnine
 
+豆包
+通义
+千问
+Kimi
 DeepSeek
 梁文锋
 
-ai
+AI芯片
 !gai
 人工智能
+大模型
+多模态
+
+摩尔线程
+壁仞
+燧原
+海光
+寒武纪
+沐曦
+壁仞
+瀚博
+格兰菲
+景嘉微
 
 自动驾驶
 
-机器人
+具身
+人形机器人
+工业机器人
+具身感认知
+强化学习
+
+宇树
+王兴兴
 
 芯片
 光刻机
